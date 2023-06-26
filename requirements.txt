@@ -1,0 +1,9 @@
+pandas
+numpy
+gensim
+nltk
+selenium
+beautifulsoup4
+requests
+fastapi
+uvicorn
